@@ -1,0 +1,11 @@
+C:\Users\Student\workspace\csharp\library\bin\Debug\netcoreapp2.1\library.deps.json
+C:\Users\Student\workspace\csharp\library\bin\Debug\netcoreapp2.1\library.runtimeconfig.json
+C:\Users\Student\workspace\csharp\library\bin\Debug\netcoreapp2.1\library.runtimeconfig.dev.json
+C:\Users\Student\workspace\csharp\library\bin\Debug\netcoreapp2.1\library.dll
+C:\Users\Student\workspace\csharp\library\bin\Debug\netcoreapp2.1\library.pdb
+C:\Users\Student\workspace\csharp\library\obj\Debug\netcoreapp2.1\library.csprojAssemblyReference.cache
+C:\Users\Student\workspace\csharp\library\obj\Debug\netcoreapp2.1\library.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\csharp\library\obj\Debug\netcoreapp2.1\library.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\csharp\library\obj\Debug\netcoreapp2.1\library.AssemblyInfo.cs
+C:\Users\Student\workspace\csharp\library\obj\Debug\netcoreapp2.1\library.dll
+C:\Users\Student\workspace\csharp\library\obj\Debug\netcoreapp2.1\library.pdb
